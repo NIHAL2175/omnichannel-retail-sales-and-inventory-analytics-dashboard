@@ -157,7 +157,7 @@ Built **Page 1 – Executive Overview Dashboard** containing:
 
 ---
 
-## Key Insights (Page 1 Only)
+## Key Insights 
 - The dashboard provides a centralized executive summary of retail performance in a single page.
 - Monthly revenue trend shows that demand changes over time rather than remaining constant.
 - Customer segment contribution is not evenly distributed, indicating that some segments are more valuable than others.
