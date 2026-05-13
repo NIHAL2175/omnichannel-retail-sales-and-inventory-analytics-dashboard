@@ -148,18 +148,6 @@ Built **Page 1 – Executive Overview Dashboard** containing:
 
 ---
 
-## Dashboard Preview
-
-### Page 1 – Executive Overview
-_Add your Power BI screenshot here after uploading it to GitHub._
-
-Example:
-```md
-![Executive Overview Dashboard](dashboard/screenshots/page1_executive_overview.png)
-```
-
----
-
 ## Key Metrics
 - **Total Revenue** = `SUM(Sales)`
 - **Total Orders** = `DISTINCTCOUNT(Order ID)`
