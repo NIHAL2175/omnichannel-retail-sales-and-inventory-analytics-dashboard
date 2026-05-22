@@ -1,5 +1,5 @@
 -- create database
-CREATE DATABASE IF NOT EXISTS retail_dashboard;
+CREATE DATABASE IF NOT EXISTS retail_dashboard; 
 USE retail_dashboard;
 
 Show tables;
