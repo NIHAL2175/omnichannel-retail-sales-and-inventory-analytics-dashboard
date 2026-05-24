@@ -6,7 +6,7 @@ Show tables;
 
 SELECT COUNT(*) AS total_rows
 FROM cleaned_train;
-
+ 
 SELECT * from cleaned_train 
 LIMIT 10;
 
