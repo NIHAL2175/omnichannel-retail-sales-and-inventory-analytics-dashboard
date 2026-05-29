@@ -10,7 +10,7 @@ df = df.head(1000)
 # mysql connection
 engine = create_engine(
     "mysql+pymysql://root:DB_Password@localhost/retail_dashboard" 
-)
+) 
 
 # import to mysql
 df.to_sql(
