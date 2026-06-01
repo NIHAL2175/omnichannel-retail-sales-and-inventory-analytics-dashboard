@@ -4,7 +4,7 @@ USE retail_dashboard;
 
 Show tables;
 
-SELECT COUNT(*) AS total_rows
+SELECT COUNT(*) AS total_rows 
 FROM cleaned_train;  
  
 SELECT * from cleaned_train  
