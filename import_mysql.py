@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 df = pd.read_csv("cleaned_train.csv")  
 
 # take only 1000 rows
-df = df.head(1000)
+df = df.head(1000) 
   
 # mysql connection
 engine = create_engine(
