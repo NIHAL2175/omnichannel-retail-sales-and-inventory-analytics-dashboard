@@ -4,7 +4,7 @@
 This project focuses on building an **Executive Overview Dashboard** for retail sales analysis using a transactional retail dataset. The dashboard is designed to help business users monitor key performance indicators such as revenue, orders, customers, average order value, monthly revenue trend, customer segment contribution, shipping mode distribution, and average shipping delay. 
 
 The current version of the project includes: 
-- Data cleaning in **Google Colab**
+- Data cleaning in **Google Colab** 
 - SQL analysis in **MySQL**
 - Power BI **Page 1 Executive Overview Dashboard** 
 - Insight generation and reporting
