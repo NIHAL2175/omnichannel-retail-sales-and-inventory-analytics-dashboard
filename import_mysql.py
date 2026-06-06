@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 # read csv
 df = pd.read_csv("cleaned_train.csv")  
-
+ 
 # take only 1000 rows
 df = df.head(1000) 
   
