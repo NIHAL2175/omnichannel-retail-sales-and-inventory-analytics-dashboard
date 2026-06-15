@@ -6,7 +6,7 @@ df = pd.read_csv("cleaned_train.csv")
  
 # take only 1000 rows
 df = df.head(1000) 
-  
+   
 # mysql connection
 engine = create_engine(
     "mysql+pymysql://root:DB_Password@localhost/retail_dashboard"  
