@@ -5,7 +5,7 @@ This project focuses on building an **Executive Overview Dashboard** for retail 
 
 The current version of the project includes: 
 - Data cleaning in **Google Colab** 
-- SQL analysis in **MySQL**
+- SQL analysis in **MySQL** 
 - Power BI **Page 1 Executive Overview Dashboard** 
 - Insight generation and reporting
 - GitHub documentation for final submission
